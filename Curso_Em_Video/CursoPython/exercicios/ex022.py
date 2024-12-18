@@ -1,0 +1,7 @@
+nome = input('Qual o seu nome? ')
+print(nome.upper())
+print(nome.lower())
+espaços=nome.count(' ')
+print('Seu nome tem {} letras.'.format(len(nome)-espaços))
+nomeDividido = nome.split()
+print('Seu primeiro nome é {} e ele tem {} letras.'.format(nomeDividido[0], len(nomeDividido[0])))
