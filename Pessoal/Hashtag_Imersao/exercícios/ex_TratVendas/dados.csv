@@ -1,0 +1,7 @@
+Data_Venda,Produto,Preco,Quantidade,Cliente
+01/01/2023,Notebook,2500,10,João
+2023-01-02,Smartphone,1500,,Maria
+01/03/2023,Tablet,1200,15,Pedro
+01/01/2023,Notebook,2500,10,João
+data venda,Produto,Preco,Quantidade,Cliente
+01/04/2023,Monitor,,5,Ana
