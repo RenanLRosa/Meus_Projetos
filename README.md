@@ -8,9 +8,9 @@ Sou apaixonado por resolver problemas lógicos e estou construindo minha base em
 ## 🚀 Projetos em Destaque
 
 ### ☕ **Sistema de Eventos Acadêmicos (Java)**
-Um projeto focado na aplicação de Orientação a Objetos para gerenciar eventos.
+Um projeto focado na aplicação de Orientação a Objetos para gerenciar eventos(No repositório vizinho).
 - **Tecnologias:** Java (POO), Organização de Classes.
-- [📂 **Acesse o código deste projeto aqui**](COLE_O_LINK_DA_PASTA_JAVA_AQUI)
+- [📂 **Acesse o código deste projeto aqui**](https://github.com/RenanLRosa/ProjetoEventosAcademicos)
 
 ### 🐍 **Lógica e Algoritmos (Python)**
 Coleção com **mais de 100 exercícios resolvidos**, focando em estruturas de dados, laços de repetição e lógica pura.
