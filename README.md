@@ -27,4 +27,4 @@ Coleção com **mais de 100 exercícios resolvidos**, focando em estruturas de d
 ---
 
 📫 **Onde me encontrar:**
-[LinkedIn](http://linkedin.com/in/renan-rosa-b512382b2/)
+[LinkedIn](http://linkedin.com/in/renan-rosa-dev)
